@@ -1,0 +1,14 @@
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\bin\Debug\net7.0\Email.exe
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\bin\Debug\net7.0\Email.deps.json
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\bin\Debug\net7.0\Email.runtimeconfig.json
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\bin\Debug\net7.0\Email.dll
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\bin\Debug\net7.0\Email.pdb
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\obj\Debug\net7.0\Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\obj\Debug\net7.0\Email.AssemblyInfoInputs.cache
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\obj\Debug\net7.0\Email.AssemblyInfo.cs
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\obj\Debug\net7.0\Email.csproj.CoreCompileInputs.cache
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\obj\Debug\net7.0\Email.dll
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\obj\Debug\net7.0\refint\Email.dll
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\obj\Debug\net7.0\Email.pdb
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\obj\Debug\net7.0\Email.genruntimeconfig.cache
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Email\Email\obj\Debug\net7.0\ref\Email.dll
