@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Email\\Email\\Email.csproj": {}
+    "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Csharp\\Email\\Email.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Email\\Email\\Email.csproj": {
+    "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Csharp\\Email\\Email.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Email\\Email\\Email.csproj",
+        "projectUniqueName": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Csharp\\Email\\Email.csproj",
         "projectName": "Email",
-        "projectPath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Email\\Email\\Email.csproj",
+        "projectPath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Csharp\\Email\\Email.csproj",
         "packagesPath": "C:\\Users\\CRIATEC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Email\\Email\\obj\\",
+        "outputPath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Csharp\\Email\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CRIATEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
